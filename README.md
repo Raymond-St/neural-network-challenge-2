@@ -1,4 +1,4 @@
-# Employee Attrition Prediction Model (DU AI Bootcamp: Module 19 Challenge)
+# HR Employee Attrition and Department best-fit Prediction Model (DU AI Bootcamp: Module 19 Challenge Due April 9th, 2025)
 
 ## Project Overview
 This project implements a multi-output neural network to predict employee attrition and department classification simultaneously. 
